@@ -57,7 +57,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 - Performance: ~10ms response times, 70% DB query reduction  
 
 📌 **Live:** [unbound.games](https://www.unbound.games/)
-📌 **Repos:** [Backend](https://github.com/OnChainMee/ubound-games-be) / [Frontend](https://github.com/OnChainMee/ubound-games-fe)
+📌 **Repos:** [Github](https://github.com/Fighters-Unbound/fighters-unbound)
 
 ---
 
